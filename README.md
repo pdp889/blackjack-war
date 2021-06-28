@@ -1,1 +1,1 @@
-Simple blackjack game with dealer logic (Dealer hits soft 17) and a simulator for the game of war
+This is a fun project I did using Java. There are two parts: a blackjack game against a computer (which plays as a hit soft-17 dealer) and a war-card-game simulator. The game is played from the standard input/output.
